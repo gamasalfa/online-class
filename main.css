@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+}
+.section{
+    display:flex;
+    text-align: center;
+}
+img{
+    height: 70px;
+    margin-top: 60px;  
+}
+.main1{
+  background-color: #BDC581; 
+}
+.child2{
+    display:flex;
+    background-color:#95a5a6 ;
+}
+.child1{
+    background-color: #1abc9c; 
+    display: flex;
+}
+.btn{
+    padding:9px 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
